@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff3cb2448ce82599",
@@ -165,6 +164,16 @@
               "icon": "lucide-list",
               "title": "Linked list's common skill 的大綱"
             }
+          },
+          {
+            "id": "514a4633e73f8407",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -175,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -184,7 +194,7 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "aa50696ff0bb8e1a",
+  "active": "95f9a1621d02d50a",
   "lastOpenFiles": [
     "Linked list/Linked list's common skill.md",
     "歡迎.md",

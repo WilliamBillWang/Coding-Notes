@@ -73,7 +73,7 @@ dummy
   v
 0 ->1 ->2 ->3
 
-# Using three pointers to reverse the linked list
+#  Reverse the linked list
 >the core three pointers are 
 1. prev(has already reversed)
 2. cur(processing)
